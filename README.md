@@ -13,4 +13,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/RJD1926/leetcode-code-solve/tree/master/0078-subsets) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/RJD1926/leetcode-code-solve/tree/master/0013-roman-to-integer) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/RJD1926/leetcode-code-solve/tree/master/0013-roman-to-integer) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/RJD1926/leetcode-code-solve/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
