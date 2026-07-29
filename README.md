@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/RJD1926/leetcode-code-solve/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/RJD1926/leetcode-code-solve/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/RJD1926/leetcode-code-solve/tree/master/0136-single-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/RJD1926/leetcode-code-solve/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/RJD1926/leetcode-code-solve/tree/master/0136-single-number) |
 ## Hash Table
 |  |
 | ------- |
