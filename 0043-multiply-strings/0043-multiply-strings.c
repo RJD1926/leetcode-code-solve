@@ -1,0 +1,57 @@
+char* multiply(char* num1, char* num2) {
+   int n = strlen(num1);
+   int m = strlen(num2);
+
+   if(n == 1 && num1[0] == '0')
+   {
+    return strdup("0");
+   }
+   if(m == 1 && num2[0] == '0')
+   {
+    return strdup("0");
+   }
+
+   int *result = calloc(n+m , sizeof(int));
+
+   for (int i= n-1 ; i>=0 ; i--)
+   {
+        for (int j= m-1; j >=0; j--)
+        {
+            int a = num1[i] - '0';
+            int b = num2[j] - '0';
+
+            int product = a*b;
+
+            int pos1 = i+j;
+            int pos2 = i+j+1;
+
+            int sum = product + result[pos2];
+
+            result[pos2] = sum % 10;
+            result[pos1] += sum / 10;
+        }
+   }
+
+   char *ans = malloc(n+m+1);
+   int index = 0;
+   int start = 0;
+
+   for(int i=0; i<n+m ; i++)
+   {
+        if (result[i] != 0)
+        {
+            start = 1;
+        }
+        if(start)
+        {
+            ans[index++] = result[i] + '0';
+        }
+   }
+
+   ans[index] = '\0';
+   free(result);
+
+   return ans;
+
+
+}
