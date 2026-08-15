@@ -108,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/RJD1926/leetcode-code-solve/tree/master/0043-multiply-strings) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/RJD1926/leetcode-code-solve/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
