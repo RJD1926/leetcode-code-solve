@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/RJD1926/leetcode-code-solve/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/RJD1926/leetcode-code-solve/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/RJD1926/leetcode-code-solve/tree/master/0043-multiply-strings) |
+| [0070-climbing-stairs](https://github.com/RJD1926/leetcode-code-solve/tree/master/0070-climbing-stairs) |
 ## String
 |  |
 | ------- |
@@ -112,4 +113,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/RJD1926/leetcode-code-solve/tree/master/0175-combine-two-tables) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/RJD1926/leetcode-code-solve/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/RJD1926/leetcode-code-solve/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
