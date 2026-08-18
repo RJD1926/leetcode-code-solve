@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/RJD1926/leetcode-code-solve/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/RJD1926/leetcode-code-solve/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/RJD1926/leetcode-code-solve/tree/master/0020-valid-parentheses) |
+| [0038-count-and-say](https://github.com/RJD1926/leetcode-code-solve/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/RJD1926/leetcode-code-solve/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/RJD1926/leetcode-code-solve/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/RJD1926/leetcode-code-solve/tree/master/0125-valid-palindrome) |
