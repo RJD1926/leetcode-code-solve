@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RJD1926/leetcode-code-solve/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/RJD1926/leetcode-code-solve/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/RJD1926/leetcode-code-solve/tree/master/0031-next-permutation) |
+| [0055-jump-game](https://github.com/RJD1926/leetcode-code-solve/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/RJD1926/leetcode-code-solve/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/RJD1926/leetcode-code-solve/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/RJD1926/leetcode-code-solve/tree/master/0136-single-number) |
@@ -121,9 +122,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/RJD1926/leetcode-code-solve/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/RJD1926/leetcode-code-solve/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/RJD1926/leetcode-code-solve/tree/master/0070-climbing-stairs) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/RJD1926/leetcode-code-solve/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
