@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/RJD1926/leetcode-code-solve/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/RJD1926/leetcode-code-solve/tree/master/0031-next-permutation) |
 | [0055-jump-game](https://github.com/RJD1926/leetcode-code-solve/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/RJD1926/leetcode-code-solve/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/RJD1926/leetcode-code-solve/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/RJD1926/leetcode-code-solve/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/RJD1926/leetcode-code-solve/tree/master/0136-single-number) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/RJD1926/leetcode-code-solve/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/RJD1926/leetcode-code-solve/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/RJD1926/leetcode-code-solve/tree/master/0043-multiply-strings) |
+| [0066-plus-one](https://github.com/RJD1926/leetcode-code-solve/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/RJD1926/leetcode-code-solve/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/RJD1926/leetcode-code-solve/tree/master/0070-climbing-stairs) |
 ## String
