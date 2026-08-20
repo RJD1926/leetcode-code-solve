@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/RJD1926/leetcode-code-solve/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/RJD1926/leetcode-code-solve/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/RJD1926/leetcode-code-solve/tree/master/0136-single-number) |
+| [0179-largest-number](https://github.com/RJD1926/leetcode-code-solve/tree/master/0179-largest-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/RJD1926/leetcode-code-solve/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/RJD1926/leetcode-code-solve/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/RJD1926/leetcode-code-solve/tree/master/0125-valid-palindrome) |
+| [0179-largest-number](https://github.com/RJD1926/leetcode-code-solve/tree/master/0179-largest-number) |
 ## Linked List
 |  |
 | ------- |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/RJD1926/leetcode-code-solve/tree/master/0088-merge-sorted-array) |
+| [0179-largest-number](https://github.com/RJD1926/leetcode-code-solve/tree/master/0179-largest-number) |
 ## Trie
 |  |
 | ------- |
@@ -134,4 +137,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/RJD1926/leetcode-code-solve/tree/master/0055-jump-game) |
+| [0179-largest-number](https://github.com/RJD1926/leetcode-code-solve/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
