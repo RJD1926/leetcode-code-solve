@@ -1,0 +1,19 @@
+/**
+ * @param {number[]} nums
+ * @return {string}
+ */
+var largestNumber = function(nums) {
+    nums.sort((a,b) => {
+        let ab = String(a) + String(b);
+        let ba = String(b) + String(a);
+
+        return ba.localeCompare(ab);
+    });
+
+    if(nums[0] === 0)
+    {
+        return "0";
+    }
+
+    return nums.join("");
+};
