@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RJD1926/leetcode-code-solve/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/RJD1926/leetcode-code-solve/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/RJD1926/leetcode-code-solve/tree/master/0031-next-permutation) |
+| [0039-combination-sum](https://github.com/RJD1926/leetcode-code-solve/tree/master/0039-combination-sum) |
 | [0055-jump-game](https://github.com/RJD1926/leetcode-code-solve/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/RJD1926/leetcode-code-solve/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/RJD1926/leetcode-code-solve/tree/master/0078-subsets) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/RJD1926/leetcode-code-solve/tree/master/0039-combination-sum) |
 | [0077-combinations](https://github.com/RJD1926/leetcode-code-solve/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/RJD1926/leetcode-code-solve/tree/master/0078-subsets) |
 ## Bit Manipulation
