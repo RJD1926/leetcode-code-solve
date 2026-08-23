@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/RJD1926/leetcode-code-solve/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/RJD1926/leetcode-code-solve/tree/master/0136-single-number) |
 | [0179-largest-number](https://github.com/RJD1926/leetcode-code-solve/tree/master/0179-largest-number) |
+| [0268-missing-number](https://github.com/RJD1926/leetcode-code-solve/tree/master/0268-missing-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -27,12 +28,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/RJD1926/leetcode-code-solve/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/RJD1926/leetcode-code-solve/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/RJD1926/leetcode-code-solve/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/RJD1926/leetcode-code-solve/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RJD1926/leetcode-code-solve/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/RJD1926/leetcode-code-solve/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/RJD1926/leetcode-code-solve/tree/master/0013-roman-to-integer) |
+| [0268-missing-number](https://github.com/RJD1926/leetcode-code-solve/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
@@ -45,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/RJD1926/leetcode-code-solve/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/RJD1926/leetcode-code-solve/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/RJD1926/leetcode-code-solve/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/RJD1926/leetcode-code-solve/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -85,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/RJD1926/leetcode-code-solve/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/RJD1926/leetcode-code-solve/tree/master/0179-largest-number) |
+| [0268-missing-number](https://github.com/RJD1926/leetcode-code-solve/tree/master/0268-missing-number) |
 ## Trie
 |  |
 | ------- |
@@ -140,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/RJD1926/leetcode-code-solve/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/RJD1926/leetcode-code-solve/tree/master/0179-largest-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/RJD1926/leetcode-code-solve/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
