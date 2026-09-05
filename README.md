@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/RJD1926/leetcode-code-solve/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/RJD1926/leetcode-code-solve/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/RJD1926/leetcode-code-solve/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/RJD1926/leetcode-code-solve/tree/master/0290-word-pattern) |
 ## Math
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/RJD1926/leetcode-code-solve/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/RJD1926/leetcode-code-solve/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/RJD1926/leetcode-code-solve/tree/master/0179-largest-number) |
+| [0290-word-pattern](https://github.com/RJD1926/leetcode-code-solve/tree/master/0290-word-pattern) |
 ## Linked List
 |  |
 | ------- |
